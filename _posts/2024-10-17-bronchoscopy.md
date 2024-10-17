@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/therobot.png
 tags: [surgical robot]
 comments: true
 mathjax: true
-author: Xing-Yu Chen
+author: Xing-Yu Chen and Wenjie Lai
 ---
 
 Continuum robot has evolved as a novel treatment modality with better features over the traditional minimally invasive surgery, such as faster, safer, and more convenient intra-body interventions without wide incisions. They are designed to navigate
