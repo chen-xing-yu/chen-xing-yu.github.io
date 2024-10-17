@@ -65,21 +65,24 @@ In addition, we conducted several animal biopsy experiments using the robotic br
 <center>Proposed bronchoscopy system. (A) In-vivo experiment; (B) The	three-stage bronchoscopy tools in pig’s trachea.</center>
 
 
-Related Pubulication: 
+
+### Related Pubulications: 
+
+{: .box-note}
+**Paper:** Chen, Xing-Yu, et al. Design of a Teleoperated Robotic Bronchoscopy System for Peripheral Pulmonary Lesion Biopsy. [arXiv preprint arXiv:2306.09598(2023)](https://doi.org/10.13140/RG.2.2.24714.64963).
+
+{: .box-warning}
+**CN Patent:** A sheath with continuously adjustable stiffness, its stiffness adjustment method, and surgical equipment. [CN115920200A](https://www.researchgate.net/publication/370801235_CN_Patent_yizhonggangdulianxukediaoqiaoguanjiqigangdudiaojiefangfaheshoushushebei)
 
 
-Chen, Xing-Yu, et al. Design of a Teleoperated Robotic Bronchoscopy System for Peripheral Pulmonary Lesion Biopsy. [arXiv preprint arXiv:2306.09598(2023)](https://doi.org/10.13140/RG.2.2.24714.64963).
+ {: .box-warning}
+**CN Patent:** Biopsy Forceps Storage and Delivery Device for Bronchoscope Surgical Robots. [CN115429343A](https://www.researchgate.net/publication/370801423_CN_Patent_yizhonghuojianqianshounayudisongzhuangzhiyijizhiqiguanjingshoushujiqiren)
 
-CN Patent: A sheath with continuously adjustable stiffness, its stiffness adjustment method, and surgical equipment. [CN115920200A](https://www.researchgate.net/publication/370801235_CN_Patent_yizhonggangdulianxukediaoqiaoguanjiqigangdudiaojiefangfaheshoushushebei)
+ {: .box-warning}
+**CN Patent:** A Respiratory Diagnosis and Treatment Robot System and its Control Method. [PCT/CN115252146](https://www.researchgate.net/publication/370801247_CN_Patent_yizhongjinghuxidaozhenliaojiqirenxitongjiqikongzhifangfa)
 
-
-CN Patent: Biopsy Forceps Storage and Delivery Device for Bronchoscope Surgical Robots. [CN115429343A](https://www.researchgate.net/publication/370801423_CN_Patent_yizhonghuojianqianshounayudisongzhuangzhiyijizhiqiguanjingshoushujiqiren)
-
-
-CN Patent: A Respiratory Diagnosis and Treatment Robot System and its Control Method. [PCT/CN115252146](https://www.researchgate.net/publication/370801247_CN_Patent_yizhongjinghuxidaozhenliaojiqirenxitongjiqikongzhifangfa)
-
-
-CN Patent: A bronchoscope module and its biopsy method. [CN116369834A](https://www.researchgate.net/publication/372234328_CN_Patent_yizhongzhiqiguanjingmozujiqihuojianfangfahecaiyongqideshoushujiqiren)
+{: .box-warning}
+**CN Patent:** A bronchoscope module and its biopsy method. [CN116369834A](https://www.researchgate.net/publication/372234328_CN_Patent_yizhongzhiqiguanjingmozujiqihuojianfangfahecaiyongqideshoushujiqiren)
 
 
 
