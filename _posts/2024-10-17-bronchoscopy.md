@@ -26,7 +26,9 @@ Robotic Bronchoscopy System
 
 I am currently tasked with designing an innovative teleoperated robotic bronchoscopy system and multi-modal navigation through image and electromagnetic sensors. During the procedure, the surgeon holds a tablet console to control a flexible visual bronchoscope, inserts a flexible tube into the patient's mouth, and utilizes the robot for advancements, rotations, and adjustment of the bending angle of the front end of the flexible bronchoscope. The robot also enables control of the biopsy forceps for feeding and tissue sampling. 
 
-<br/><img src='/images/R_B_System.png'>
+![Crepe](https://chen-xing-yu.github.io/assets/img/images/R_B_System){: .mx-auto.d-block :}
+
+<br/><img src='/images/R_B_System'>
 
 <center>Robotic Bronchoscopy System. (A) Robot and bronchus phantom; (B) Biopsy forceps manipulator; (C) Bronchoscopic video. (D) EM-Sensor based navigation system; (E) Embedded control system, electrical devices and motors; (F) Biopsy forceps and Catheters delivery device.</center>
 
