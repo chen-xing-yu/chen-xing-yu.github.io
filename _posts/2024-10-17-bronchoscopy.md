@@ -2,7 +2,7 @@
 layout: post
 title: Robotic Bronchoscopy System
 subtitle: benifits for lung cancer diagnosis
-cover-img: /assets/img/robot.jpg
+cover-img: /assets/img/therobot.png
 thumbnail-img: /assets/img/therobot.png
 tags: [surgical robot]
 comments: true
