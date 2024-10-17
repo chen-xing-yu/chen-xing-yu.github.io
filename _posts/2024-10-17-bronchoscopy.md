@@ -3,9 +3,7 @@ layout: post
 title: Robotic Bronchoscopy System
 subtitle: benifits for lung cancer diagnosis
 cover-img: /assets/img/robot.jpg
-
-[//]: # (gh-repo: daattali/beautiful-jekyll)
-[//]: # (gh-badge: [star, fork, follow])
+thumbnail-img: /assets/img/therobot.png
 tags: [test]
 comments: true
 mathjax: true
