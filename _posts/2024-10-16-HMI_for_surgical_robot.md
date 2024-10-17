@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intuitive Human-Machine Interface for Surgical Robots
-(subtitle: Let surgeon feel more real)
+subtitle: Let surgeon feel more real
 #cover-img: /assets/img/path.png
 thumbnail-img: /assets/img/VISR.png
 gh-repo: daattali/beautiful-jekyll
