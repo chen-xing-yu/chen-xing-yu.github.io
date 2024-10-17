@@ -12,6 +12,7 @@
 layout: post
 title: Continuum Surgical Robot
 subtitle: There's lots to learn!
+cover-img: /assets/img/robot.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -19,6 +20,26 @@ comments: true
 mathjax: true
 author: Xing-Yu Chen
 ---
+
+[//]: # (---)
+
+[//]: # (layout: post)
+
+[//]: # (title: Flake it till you make it)
+
+[//]: # (subtitle: Excerpt from Soulshaping by Jeff Brown)
+
+[//]: # (cover-img: /assets/img/robot.jpg)
+
+[//]: # (thumbnail-img: /assets/img/thumb.png)
+
+[//]: # (share-img: /assets/img/path.jpg)
+
+[//]: # (tags: [books, test])
+
+[//]: # (author: Sharon Smith and Barry Simpson)
+
+[//]: # (---)
 
 
 Continuum robot has evolved as a novel treatment modality with better features over the traditional minimally invasive surgery, such as faster, safer, and more convenient intra-body interventions without wide incisions. They are designed to navigate
