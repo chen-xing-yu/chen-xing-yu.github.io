@@ -4,7 +4,7 @@ title: Robotic Bronchoscopy System
 subtitle: benifits for lung cancer diagnosis
 cover-img: /assets/img/robot.jpg
 thumbnail-img: /assets/img/therobot.png
-tags: [test]
+tags: [surgical robot]
 comments: true
 mathjax: true
 author: Xing-Yu Chen
