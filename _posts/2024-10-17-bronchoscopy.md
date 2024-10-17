@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Continuum Surgical Robot
-subtitle: There's lots to learn!
+title: Robotic Bronchoscopy System
+subtitle: benifits for lung cancer diagnosis
 cover-img: /assets/img/robot.jpg
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
