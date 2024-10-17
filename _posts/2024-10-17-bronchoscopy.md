@@ -15,8 +15,7 @@ anatomical pathways through single-port access, e.g. natural orifice translumina
 conventional manipulators composed of discrete rigid links connected by joints. Their
 ability to take the shape of 3D curves enables these robots to perform procedures
 through smaller surgical corridors than would be possible with traditional robotic
-mechanisms. During the work in Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, I lead a small group of students and design two continuum robot, a vascular interventional surgical robot and a robotic bronchoscopy system.
-
+mechanisms. 
 
 
 ======
