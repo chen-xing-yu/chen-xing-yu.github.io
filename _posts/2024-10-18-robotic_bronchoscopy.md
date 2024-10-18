@@ -2,7 +2,6 @@
 layout: post
 title: Robotic Bronchoscopy with Variable-Stiffness Catheter 
 subtitle: New method for lung cancer biopsy
-gh-repo: daattali/beautiful-jekyll
 tags: [surgical robot]
 comments: true
 mathjax: true
