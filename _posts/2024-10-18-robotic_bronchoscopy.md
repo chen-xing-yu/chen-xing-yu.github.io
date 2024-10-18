@@ -34,3 +34,5 @@ prototyping. However, it lacks physical feedback and cannot provide similar forc
 the risk of operational hazards. Prolonged use of the touchscreen may also cause fatigue in the fingers or hands
 of the surgeon. Additionally, there are security concerns in wireless environments. Future improvement will transfer the
 control algorithm to a more ergonomic surgeon console.
+
+![Crepe](https://chen-xing-yu.github.io/assets/img/therobot2.pdf){: .mx-auto.d-block :}
