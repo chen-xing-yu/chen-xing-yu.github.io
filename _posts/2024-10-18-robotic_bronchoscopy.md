@@ -17,6 +17,7 @@ This work presents a teleoperated robotic bronchoscopy system, featuring a contr
 
 
 
+![Crepe](/assets/img/invivo.png){: .mx-auto.d-block :}
 
 ### System Overview
 
@@ -71,7 +72,6 @@ generator and detector are positioned on a C-shaped arm,
 directly opposite and centrally aligned with each other. The
 C-Arm fluoroscopy system is capable of controlled rotation,
 allowing for imaging from various angles and positions.
-D. 
 
 ![Crepe](https://chen-xing-yu.github.io/assets/img/navi.png){: .mx-auto.d-block :}
 
