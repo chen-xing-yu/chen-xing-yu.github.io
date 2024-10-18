@@ -11,7 +11,7 @@ author: Xing-Yu Chen
 ---
 
 {: .box-success} 
-This paper presents a teleoperated robotic bronchoscopy system, featuring a controllable variable-stiffness catheter that enhances stability and flexibility during transbronchial biopsies. The 7 DoF robotic system allows for translation, rotation, and bending of the bronchoscope; delivery and bending of the catheter; delivery and control of biopsy tools; as well as stiffness adjustment of the catheter, which adapts to the dynamic pulmonary environment to provide stable support during tissue sampling. 
+This work presents a teleoperated robotic bronchoscopy system, featuring a controllable variable-stiffness catheter that enhances stability and flexibility during transbronchial biopsies. The 7 DoF robotic system allows for translation, rotation, and bending of the bronchoscope; delivery and bending of the catheter; delivery and control of biopsy tools; as well as stiffness adjustment of the catheter, which adapts to the dynamic pulmonary environment to provide stable support during tissue sampling. 
 
 ## Robotic Bronchoscopy System with Variable-Stiffness Catheter for Pulmonary Lesion Biopsy
 
@@ -35,7 +35,7 @@ the risk of operational hazards. Prolonged use of the touchscreen may also cause
 of the surgeon. Additionally, there are security concerns in wireless environments. Future improvement will transfer the
 control algorithm to a more ergonomic surgeon console.
 
-![Crepe](https://chen-xing-yu.github.io/assets/img/therobot2.pdf){: .mx-auto.d-block :}
+![Crepe](https://chen-xing-yu.github.io/assets/img/therobot2.png){: .mx-auto.d-block :}
 
 
 
