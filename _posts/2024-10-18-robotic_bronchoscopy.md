@@ -29,3 +29,12 @@ of the surgeon. Additionally, there are security concerns in wireless environmen
 
 
 
+| Endoscopic Intruments | Parameters | Size   |
+|:----------------------|:--- |:-------|
+| Bronchoscope                  | Outside Diameter    | 5.2 mm |
+| Bronchoscope                   | Inside Diameter | 2.6 mm |
+| Variable-Stiffness Catheter                 | Outside Diameter  | 2.4 mm |
+| Variable-Stiffness Catheter                   | Inside Diameter | 1.2 mm |
+| Biopsy Forceps|Diameter|1.0 mm |
+
+
