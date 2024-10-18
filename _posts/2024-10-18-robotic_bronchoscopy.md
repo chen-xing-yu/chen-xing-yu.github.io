@@ -10,9 +10,6 @@ mathjax: true
 author: Xing-Yu Chen 
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
-
 {: .box-success} 
 This paper presents a teleoperated robotic bronchoscopy system, featuring a controllable variable-stiffness catheter that enhances stability and flexibility during transbronchial biopsies. The 7 DoF robotic system allows for translation, rotation, and bending of the bronchoscope; delivery and bending of the catheter; delivery and control of biopsy tools; as well as stiffness adjustment of the catheter, which adapts to the dynamic pulmonary environment to provide stable support during tissue sampling. 
 
@@ -21,3 +18,19 @@ This paper presents a teleoperated robotic bronchoscopy system, featuring a cont
 
 
 Robotic Bronchoscopy with Variable-Stiffness Catheter 
+
+### System Overview
+
+The system comprises a teleoperated surgical robot specifically designed for trans-respiratory diagnosis, incorporating a
+three-stage design scheme that includes a bronchoscope, novel variable-stiffness catheters, and biopsy forceps, as illustrated
+in Fig. 1. The robot is mounted on a 5 Degree of Freedom (DoF) passive robotic arm to achieve the appropriate angle of
+intervention. Surgeons use tablets as the remote control system to teleoperate the three endoscopic instruments, inserting them
+through the patient’s trachea and utilizing them for precise movements. Employing a multi-operator strategy, the robot
+is controlled through a scheduling arrangement and weight distribution, allowing mentor surgeons and trainee surgeons to
+observe the same surgical site and collaboratively control the surgical instruments simultaneously. Compared to the surgeon
+console of the Da Vinci surgical robot, Force Dimension’s haptic devices [25], and other custom-made master control
+units [10], this Human-Machine Interface (HMI) allows for quick integration of new features, making it convenient for
+prototyping. However, it lacks physical feedback and cannot provide similar force feedback information, which may increase
+the risk of operational hazards. Prolonged use of the touchscreen may also cause fatigue in the fingers or hands
+of the surgeon. Additionally, there are security concerns in wireless environments. Future improvement will transfer the
+control algorithm to a more ergonomic surgeon console.
