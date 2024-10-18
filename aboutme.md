@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Contact me if you have any interesting ideas!
+subtitle: Contact me if you have any interesting ideas, I can realize it
 ---
 
 ### My story
