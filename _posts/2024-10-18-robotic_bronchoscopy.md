@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips 
-subtitle: There's lots to learn!
+title: Robotic Bronchoscopy with Variable-Stiffness Catheter 
+subtitle: New method for lung cancer biopsy
 gh-repo: daattali/beautiful-jekyll
 tags: [surgical robot]
 comments: true
