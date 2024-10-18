@@ -17,7 +17,7 @@ I have designed a teleoperated robotic bronchoscopy system, featuring a controll
 
 
 
-![Crepe](/assets/img/invivo.png){{: style="width: 200px; height: auto;"}
+![Crepe](/assets/img/invivo.png){: style="width: 200px; height: auto;"}
 
 ### System Overview
 
