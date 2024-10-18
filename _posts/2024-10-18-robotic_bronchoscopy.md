@@ -17,7 +17,7 @@ I have designed a teleoperated robotic bronchoscopy system, featuring a controll
 
 
 
-![Crepe](/assets/img/invivo.png){: style="width: 500px; height: auto;"}
+![Crepe](/assets/img/invivo.png){: style="width: 500px; height: auto;.mx-auto.d-block "}
 
 ### System Overview
 
@@ -25,7 +25,7 @@ The system comprises a teleoperated surgical robot specifically designed for tra
 console of the Da Vinci surgical robot, Force Dimension’s haptic devices, and other custom-made master control units, this HMI allows for quick integration of new features, making it convenient for prototyping. However, it lacks physical feedback and cannot provide similar force feedback information, which may increase the risk of operational hazards. Prolonged use of the touchscreen may also cause fatigue in the fingers or hands
 of the surgeon. Additionally, there are security concerns in wireless environments. Future improvement will transfer the control algorithm to a more ergonomic surgeon console.
 
-![Crepe](https://chen-xing-yu.github.io/assets/img/therobot2.png){: .mx-auto.d-block :}
+![Crepe](https://chen-xing-yu.github.io/assets/img/therobot2.png){: style="width: 500px; height: auto :}
 
 
 
